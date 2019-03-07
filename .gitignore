@@ -1,0 +1,40 @@
+# IDE files
+.idea
+.idea_modules
+.ensime
+.ensime_cache
+.vscode
+.iml
+.scala_dependencies
+.worksheet
+.*.swp
+.*.swo
+*.sublime-project
+*.sublime-workspace
+ideatarget
+*~
+
+# Scala
+*.class
+*.log
+
+# Sbt-specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+target
+.target
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.tmpBin
+.factorypath
+.settings
+logs
+
+# OSX-specific
+.DS_Store
